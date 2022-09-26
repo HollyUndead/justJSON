@@ -6,7 +6,7 @@
             "category": "Task",
             "content": "Needed to be in the hospital at 3pm 15/10/20",
             "dates": "-",
-            "noteNum": null,
+            "noteNum": 1,
             "archive": 1
         },
         {
@@ -15,7 +15,7 @@
             "category": "Task",
             "content": "Complite first task 20.09.22",
             "dates": "-",
-            "noteNum": null,
+            "noteNum": 2,
             "archive": 0
         },
         {
@@ -24,7 +24,7 @@
             "category": "Task",
             "content": "Check email evryday at 8am",
             "dates": "-",
-            "noteNum": null,
+            "noteNum": 3,
             "archive": 0
         },
         {
@@ -33,7 +33,7 @@
             "category": "Random thought",
             "content": "Finish book in a few days",
             "dates": "-",
-            "noteNum": null,
+            "noteNum": 4,
             "archive": 1
         },
         {
@@ -42,7 +42,7 @@
             "category": "Idea",
             "content": "Add a new feature to the project. User can click on legend`s portret and look through information about that legend",
             "dates": "-",
-            "noteNum": null,
+            "noteNum": 5,
             "archive": 0
         },
         {
@@ -51,7 +51,7 @@
             "category": "Random thought",
             "content": "Rewrite project in Reactjs",
             "dates": "-",
-            "noteNum": null,
+            "noteNum": 6,
             "archive": 0
         },
         {
@@ -60,7 +60,7 @@
             "category": "Random thought",
             "content": "Finish the game",
             "dates": "-",
-            "noteNum": null,
+            "noteNum": 7,
             "archive": 1
         }
     ]
